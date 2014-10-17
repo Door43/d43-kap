@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kap:home|Door43 (kap)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kap|d43-kap repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kap/archive/master.zip|d43-kap.zip]]
+
+**Recent Changes**
+{{changes>ns = kap}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kap|Ethnologue data]]
+
